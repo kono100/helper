@@ -1,0 +1,12 @@
+# Ignorar arquivos executáveis e binários compilados
+*.exe
+*.dll
+*.pak
+*.bin
+*.dat
+*.asar
+*.ico
+
+# Ignorar pastas inteiras
+/resources/
+/locales/
